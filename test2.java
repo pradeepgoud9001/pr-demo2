@@ -1,2 +1,7 @@
-first 100 lines of java script
-second 100 lines of codes add by susant
+// How to create variables:
+var x;
+let y;
+
+// How to use variables:
+x = 5;
+y = 6;
